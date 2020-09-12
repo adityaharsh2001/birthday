@@ -667,7 +667,7 @@ function showConfetti(){
     hh = h / 2,
     opts = {
       
-      strings_1: [["  Happy birthday!", "   loon,   "], ["   May all happiness,"], ["all luck"], [" always surround", "you  "], ["  Now welcome the", "    Minions to celebrate", "   your birthday haha~"]],   
+      strings_1: [["  Happy birthday!", "   Dear,   "], ["   May all happiness,"], ["all luck"], [" always surround", "you  "], ["  Now welcome the", "    Minions to celebrate", "   your birthday haha~"]],   
       charSize: 20,
       // charSpacing: 22,
       charSpacing: 15,
